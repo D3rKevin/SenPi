@@ -1,0 +1,22 @@
+{
+    "token": "NTUxNDk3MzE0NDM1MzM0MTk4.D1x1hQ.GPBOoQik9g0L6DnaezdpeZIMdwk",
+    "owner": "168732692773339136",
+    "prefix": ",",
+    "verifymsgid": "591342184196866061",
+    "verifiedid": "591342335800115201",
+    "selfroles": {
+        "leagueoflegends":{
+            "id": "538422113539719199",
+            "name": "League Of Legends"
+        } ,
+        "weeb": {
+            "id" :"525741709271760929",
+            "name": "Weebs"
+        },
+        "overwatch":{
+            "id" : "636606365271588894",
+            "name": "Overwatch"
+        }
+    },
+    "private": "1"
+}
